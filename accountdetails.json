@@ -1,0 +1,972 @@
+[
+    {
+      "isActive": true,
+      "intervalDays": 212,
+      "allocatedQunantity": 115,
+      "BUD": "Mon Jul 03 2017 00:23:32 GMT+0000 (UTC)",
+      "lot_No": "f5131d6d-8ea3-4342-a8ea-febc19b58d7f",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be530ad50f64b65df6"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 274,
+      "allocatedQunantity": 812,
+      "BUD": "Sun Jan 15 2017 23:01:01 GMT+0000 (UTC)",
+      "lot_No": "5a2d88ad-1a6c-463d-ba9d-4734d7f4a2b3",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bef33b04a87f11dc03"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 18,
+      "allocatedQunantity": 505,
+      "BUD": "Sun Jun 18 2017 05:21:07 GMT+0000 (UTC)",
+      "lot_No": "f1112980-61f7-432a-8b2a-a0ce6b737d24",
+      "dosageForm": "Injection",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3be9714aebcb6463ca9"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 90,
+      "allocatedQunantity": 209,
+      "BUD": "Thu Mar 30 2017 12:22:09 GMT+0000 (UTC)",
+      "lot_No": "d9e21e92-4f73-4c4b-8e27-d3faa1ecf53f",
+      "dosageForm": "Gel",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3be5d6d06d257a47e9b"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 317,
+      "allocatedQunantity": 311,
+      "BUD": "Tue Sep 26 2017 08:57:17 GMT+0000 (UTC)",
+      "lot_No": "a138c9e3-c40e-48b6-8f1d-48fbe2e9c3d2",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be1259258555bea2f3"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 248,
+      "allocatedQunantity": 543,
+      "BUD": "Sat Feb 11 2017 23:27:42 GMT+0000 (UTC)",
+      "lot_No": "1745f015-d954-4a49-806d-fa6ad68d95c0",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be53998055e929dce9"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 186,
+      "allocatedQunantity": 256,
+      "BUD": "Sun Nov 05 2017 10:30:34 GMT+0000 (UTC)",
+      "lot_No": "1edd9807-6770-4a36-b4e9-1c4fdcb29f4b",
+      "dosageForm": "Capsule",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3becaccc960f0a05bcd"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 308,
+      "allocatedQunantity": 864,
+      "BUD": "Sat Dec 16 2017 06:41:46 GMT+0000 (UTC)",
+      "lot_No": "97426e4e-1de6-4f50-a10a-cb51cfee8f8d",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be066543e561a13df8"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 282,
+      "allocatedQunantity": 620,
+      "BUD": "Wed May 17 2017 10:11:17 GMT+0000 (UTC)",
+      "lot_No": "fbc35146-9331-4351-a563-56b10f20e13f",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bee50dd4a1d3fcb47f"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 302,
+      "allocatedQunantity": 154,
+      "BUD": "Mon Jul 03 2017 07:05:12 GMT+0000 (UTC)",
+      "lot_No": "c4120a10-b7b8-46ec-8347-d4ef3dc7fc95",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3befa042802108a83fd"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 116,
+      "allocatedQunantity": 721,
+      "BUD": "Sat Jun 10 2017 12:18:50 GMT+0000 (UTC)",
+      "lot_No": "381805c6-f11a-4bfa-84e1-dceaba1c7b12",
+      "dosageForm": "Tablet",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bed864161302a812e6"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 276,
+      "allocatedQunantity": 913,
+      "BUD": "Mon Jan 23 2017 00:17:18 GMT+0000 (UTC)",
+      "lot_No": "accdbbf9-614f-4bd6-8c8c-70ad10f8e62a",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be0effda34af30367d"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 204,
+      "allocatedQunantity": 114,
+      "BUD": "Sat Mar 11 2017 01:37:03 GMT+0000 (UTC)",
+      "lot_No": "4b991f17-efb2-490e-8dcd-3fc26014d049",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3be6f43d4a74a18738d"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 232,
+      "allocatedQunantity": 865,
+      "BUD": "Thu Nov 16 2017 18:41:41 GMT+0000 (UTC)",
+      "lot_No": "60487b1a-daed-46a9-8b69-7904b0d59fad",
+      "dosageForm": "Injection",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3be79ca34b47a521480"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 39,
+      "allocatedQunantity": 315,
+      "BUD": "Thu Mar 09 2017 14:05:09 GMT+0000 (UTC)",
+      "lot_No": "9755fb96-8984-47b7-8d75-30fdfd6a7493",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3be0a9df8c8b69de73b"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 106,
+      "allocatedQunantity": 467,
+      "BUD": "Thu May 04 2017 21:30:40 GMT+0000 (UTC)",
+      "lot_No": "6882e676-db1d-4770-b2fb-e71e48456364",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf5105f8637450daf9"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 186,
+      "allocatedQunantity": 149,
+      "BUD": "Tue Aug 01 2017 17:33:07 GMT+0000 (UTC)",
+      "lot_No": "456d8c1b-24a5-474f-a7f3-7761e1ad5058",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf7226b38aeed78dd4"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 340,
+      "allocatedQunantity": 662,
+      "BUD": "Wed Mar 22 2017 05:39:47 GMT+0000 (UTC)",
+      "lot_No": "f4c5b604-1c0d-4e6e-88ff-9eca0f140e73",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf23be65a262c7325f"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 302,
+      "allocatedQunantity": 142,
+      "BUD": "Tue Apr 11 2017 09:07:22 GMT+0000 (UTC)",
+      "lot_No": "603467b7-9f46-4b4d-ae3e-374d79e9024d",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfb6c2e20e550d49db"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 8,
+      "allocatedQunantity": 567,
+      "BUD": "Thu May 18 2017 01:00:18 GMT+0000 (UTC)",
+      "lot_No": "68647df8-691c-4cf7-b485-9c4427c66828",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf02d0b97d0d1a593c"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 56,
+      "allocatedQunantity": 944,
+      "BUD": "Mon Jul 24 2017 02:34:08 GMT+0000 (UTC)",
+      "lot_No": "81ff0083-d9a9-4860-9803-5fa93ae19d59",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf6ca5a6ff89bbcce7"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 128,
+      "allocatedQunantity": 838,
+      "BUD": "Thu Mar 16 2017 22:38:42 GMT+0000 (UTC)",
+      "lot_No": "558909f6-6f7b-442b-a26e-1e6dd710c533",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bfd92e0539b0b072f4"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 252,
+      "allocatedQunantity": 196,
+      "BUD": "Sun Aug 20 2017 05:07:56 GMT+0000 (UTC)",
+      "lot_No": "34301dd8-751f-43ec-9ab3-9219d733d246",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf68b7be566814a446"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 207,
+      "allocatedQunantity": 868,
+      "BUD": "Mon Feb 27 2017 09:47:28 GMT+0000 (UTC)",
+      "lot_No": "d4d67eef-a1f1-4791-8d2e-6fbbc429f655",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf87a5e564b66297e0"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 353,
+      "allocatedQunantity": 686,
+      "BUD": "Wed May 10 2017 07:52:41 GMT+0000 (UTC)",
+      "lot_No": "e3da08bd-e72f-42c3-8e4b-c79c6ec46c7f",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfdd19d6adbd6bc16e"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 278,
+      "allocatedQunantity": 126,
+      "BUD": "Wed Sep 20 2017 07:07:45 GMT+0000 (UTC)",
+      "lot_No": "6af3c967-cfae-4b26-b8fb-97f34dba5253",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf90d44f62f4110674"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 92,
+      "allocatedQunantity": 486,
+      "BUD": "Mon Oct 02 2017 11:06:13 GMT+0000 (UTC)",
+      "lot_No": "45134d0d-4293-48ac-b39c-926d622c5ce9",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf5be41c427f59d7d5"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 278,
+      "allocatedQunantity": 845,
+      "BUD": "Thu Apr 20 2017 00:54:24 GMT+0000 (UTC)",
+      "lot_No": "d91393f6-721e-427f-b23a-94f4e321e83c",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfa7ad7f0aa7ab6748"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 303,
+      "allocatedQunantity": 663,
+      "BUD": "Mon Jun 12 2017 04:33:58 GMT+0000 (UTC)",
+      "lot_No": "398a0d30-b518-44cb-83da-43c1795be03e",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfcb5c80f61fe81126"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 36,
+      "allocatedQunantity": 193,
+      "BUD": "Tue Jan 03 2017 09:05:20 GMT+0000 (UTC)",
+      "lot_No": "c9b0b358-b299-42d9-905f-1e75825241b8",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf1efaf89a8beed466"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 250,
+      "allocatedQunantity": 136,
+      "BUD": "Thu Feb 09 2017 15:05:30 GMT+0000 (UTC)",
+      "lot_No": "e7bab3e6-e463-4031-9bda-9085d9a52247",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bfaa2e1a0001f9c156"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 112,
+      "allocatedQunantity": 441,
+      "BUD": "Wed Feb 15 2017 21:30:14 GMT+0000 (UTC)",
+      "lot_No": "f17009ba-8f8d-4217-b791-821d74b0f39b",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf419ebd6ab10677f6"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 339,
+      "allocatedQunantity": 638,
+      "BUD": "Fri May 05 2017 12:53:41 GMT+0000 (UTC)",
+      "lot_No": "6aa86013-e87d-4741-a873-3d5a5dc73bd5",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf3c030d1ca7375089"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 162,
+      "allocatedQunantity": 120,
+      "BUD": "Fri Apr 28 2017 09:23:49 GMT+0000 (UTC)",
+      "lot_No": "a24d8095-6029-42be-8825-e7229f5a8d7d",
+      "dosageForm": "Injection",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfc3077035f4fa3be7"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 364,
+      "allocatedQunantity": 433,
+      "BUD": "Sat Aug 19 2017 07:51:47 GMT+0000 (UTC)",
+      "lot_No": "6522d91d-b900-45b6-b635-8d75ffd2cab6",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf37b77242c9dd3ceb"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 109,
+      "allocatedQunantity": 626,
+      "BUD": "Sun May 14 2017 20:07:18 GMT+0000 (UTC)",
+      "lot_No": "a37f02db-8b1d-4bb5-b9f7-bcbd3d685206",
+      "dosageForm": "Capsule",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfb3836041c224ecd4"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 283,
+      "allocatedQunantity": 804,
+      "BUD": "Wed Jun 14 2017 23:27:09 GMT+0000 (UTC)",
+      "lot_No": "263dc5cb-98e5-490c-aede-94bf1525d21f",
+      "dosageForm": "Injection",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf4655d0f9cd6601ff"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 78,
+      "allocatedQunantity": 285,
+      "BUD": "Tue Aug 15 2017 17:08:27 GMT+0000 (UTC)",
+      "lot_No": "ce4a6412-684d-45a0-9e50-5dd1b43367c2",
+      "dosageForm": "Injection",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfb5dddbdd62bdd5d6"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 276,
+      "allocatedQunantity": 960,
+      "BUD": "Wed Jun 07 2017 09:19:54 GMT+0000 (UTC)",
+      "lot_No": "a46f22d1-b030-4ccf-be25-03f0f428fad1",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf029b5027808ebdbe"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 122,
+      "allocatedQunantity": 535,
+      "BUD": "Sat Jun 24 2017 00:56:02 GMT+0000 (UTC)",
+      "lot_No": "5ced2e60-39ab-4b2b-b93a-53bef578310f",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf1458c4196bfffe3e"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 19,
+      "allocatedQunantity": 686,
+      "BUD": "Tue Jun 27 2017 01:54:31 GMT+0000 (UTC)",
+      "lot_No": "65cf70b3-031b-4822-9c26-f6461b953da9",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf3b4261bf849e547c"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 123,
+      "allocatedQunantity": 990,
+      "BUD": "Tue Oct 24 2017 15:52:20 GMT+0000 (UTC)",
+      "lot_No": "4dc02717-2766-4ff4-bf9d-3ed8858a938e",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bfa304a0592675fe2a"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 342,
+      "allocatedQunantity": 106,
+      "BUD": "Tue Jan 17 2017 21:29:28 GMT+0000 (UTC)",
+      "lot_No": "3558099f-fdbe-4720-a868-3151b2f226e9",
+      "dosageForm": "Injection",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf5d06317df1d2f9e0"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 151,
+      "allocatedQunantity": 532,
+      "BUD": "Fri Jan 27 2017 01:10:06 GMT+0000 (UTC)",
+      "lot_No": "6435f1a0-5877-4bfc-9427-6cf646fe584b",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf1b21c843ab90fca1"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 31,
+      "allocatedQunantity": 885,
+      "BUD": "Mon Dec 04 2017 09:26:55 GMT+0000 (UTC)",
+      "lot_No": "7ecf81ab-edac-4d35-bd80-5310ab8cf9e3",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bff84c1ebeb8a2fedb"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 360,
+      "allocatedQunantity": 466,
+      "BUD": "Fri Jul 07 2017 20:11:07 GMT+0000 (UTC)",
+      "lot_No": "6511e591-e688-4673-b9e8-11374c9c34e6",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf504592e875f21cfe"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 262,
+      "allocatedQunantity": 490,
+      "BUD": "Sun Dec 03 2017 11:50:10 GMT+0000 (UTC)",
+      "lot_No": "f58c7abc-044a-4fa6-854a-8fb81757818a",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf80846f08b6b9374c"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 51,
+      "allocatedQunantity": 598,
+      "BUD": "Thu Oct 19 2017 04:25:02 GMT+0000 (UTC)",
+      "lot_No": "d02b301a-45d0-4aef-bffb-98c065b78885",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfc5be3ba1b1d4f9d5"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 292,
+      "allocatedQunantity": 714,
+      "BUD": "Tue Sep 12 2017 08:09:29 GMT+0000 (UTC)",
+      "lot_No": "ac6fe552-7a0e-4269-b0f8-fe76c7d5b38f",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfad58f4f7efa5ddb8"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 303,
+      "allocatedQunantity": 820,
+      "BUD": "Wed Jan 11 2017 07:10:39 GMT+0000 (UTC)",
+      "lot_No": "b9d6d285-3b61-44bf-897a-94648d83ff2e",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf1cdd38f02d31bc10"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 155,
+      "allocatedQunantity": 127,
+      "BUD": "Sun Mar 12 2017 14:12:31 GMT+0000 (UTC)",
+      "lot_No": "8afe68a6-f994-4a84-8bc4-40374ab6c8bf",
+      "dosageForm": "Gel",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf800ca473ba8729b5"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 333,
+      "allocatedQunantity": 836,
+      "BUD": "Tue Sep 26 2017 04:54:19 GMT+0000 (UTC)",
+      "lot_No": "440ec947-5e91-487e-8015-e20e309ce87f",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf974512c95c1589e4"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 103,
+      "allocatedQunantity": 760,
+      "BUD": "Sat May 13 2017 15:54:02 GMT+0000 (UTC)",
+      "lot_No": "0d2c0485-9759-4431-bc76-09bd49318c42",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bfe8f806efa48f5dfc"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 155,
+      "allocatedQunantity": 458,
+      "BUD": "Sun Sep 10 2017 19:00:28 GMT+0000 (UTC)",
+      "lot_No": "7f6dc84a-1a4f-4993-8972-e89f39c9a630",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf24776e403c7a0d34"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 212,
+      "allocatedQunantity": 556,
+      "BUD": "Thu Jun 01 2017 23:16:01 GMT+0000 (UTC)",
+      "lot_No": "65fb5351-65e5-4d1f-b9dc-8ce196ebf823",
+      "dosageForm": "Capsule",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf46540c4d591ea9ea"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 244,
+      "allocatedQunantity": 503,
+      "BUD": "Wed Nov 08 2017 07:48:58 GMT+0000 (UTC)",
+      "lot_No": "7ce87ce8-bdf3-4534-b302-3dbee5912331",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfb41583099b1f1d1f"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 46,
+      "allocatedQunantity": 114,
+      "BUD": "Thu Mar 23 2017 11:27:19 GMT+0000 (UTC)",
+      "lot_No": "2460b3d1-2fbe-44c7-9587-d203dead00a2",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bfe4743d8ef7f110ec"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 351,
+      "allocatedQunantity": 684,
+      "BUD": "Sun Dec 03 2017 15:41:14 GMT+0000 (UTC)",
+      "lot_No": "43dfab08-6093-4dee-bcd0-72f1a77cdeb1",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf6e5efc280bcf2faa"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 80,
+      "allocatedQunantity": 690,
+      "BUD": "Sat Jan 07 2017 19:07:42 GMT+0000 (UTC)",
+      "lot_No": "c87ceb8d-b640-4cc6-af13-d4e1b9c3b343",
+      "dosageForm": "Gel",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bfb09fb44b203f34b6"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 270,
+      "allocatedQunantity": 655,
+      "BUD": "Thu Nov 09 2017 01:54:18 GMT+0000 (UTC)",
+      "lot_No": "3b32721e-0a61-4728-adf1-25954332c819",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf3aa72b53d90c46f4"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 333,
+      "allocatedQunantity": 529,
+      "BUD": "Sun Oct 01 2017 22:06:00 GMT+0000 (UTC)",
+      "lot_No": "7f04f64f-e607-4f93-8eed-7956738bc735",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf471933cf2027ad77"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 323,
+      "allocatedQunantity": 565,
+      "BUD": "Sun Feb 12 2017 14:45:37 GMT+0000 (UTC)",
+      "lot_No": "2ab58aa2-9255-44c7-89b0-39d458022927",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfcb861a602498446c"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 55,
+      "allocatedQunantity": 220,
+      "BUD": "Mon Apr 10 2017 19:18:37 GMT+0000 (UTC)",
+      "lot_No": "b9e3ae14-74e5-4473-9f85-d10eae7e2b08",
+      "dosageForm": "Injection",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfce5996833e8df107"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 318,
+      "allocatedQunantity": 625,
+      "BUD": "Fri Sep 15 2017 16:31:22 GMT+0000 (UTC)",
+      "lot_No": "423c6b0f-1bc6-4e96-805b-8492d42f6510",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf74632f8822190fed"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 348,
+      "allocatedQunantity": 295,
+      "BUD": "Sun Apr 23 2017 10:47:47 GMT+0000 (UTC)",
+      "lot_No": "8e1f2e35-d18f-4f5c-9e32-c91c32c4a066",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf07349ba55108465b"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 349,
+      "allocatedQunantity": 872,
+      "BUD": "Mon Jul 24 2017 23:05:02 GMT+0000 (UTC)",
+      "lot_No": "332b0b63-a51e-40bc-9ee3-7e9a2be243d1",
+      "dosageForm": "Injection",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bff384193eadbaa8c3"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 171,
+      "allocatedQunantity": 780,
+      "BUD": "Thu Aug 03 2017 06:31:18 GMT+0000 (UTC)",
+      "lot_No": "fb072c11-522c-44b6-9f44-7b20aa7e6186",
+      "dosageForm": "Injection",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf681b71964ed138e7"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 360,
+      "allocatedQunantity": 775,
+      "BUD": "Sat Apr 15 2017 03:54:43 GMT+0000 (UTC)",
+      "lot_No": "80ed5b34-2aaf-45a7-866d-38534320917b",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf793b0d35067e244e"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 28,
+      "allocatedQunantity": 482,
+      "BUD": "Fri Nov 10 2017 14:32:20 GMT+0000 (UTC)",
+      "lot_No": "ff821761-86bf-44ab-9e20-3551ad2ff423",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfabb8448014ea0c2a"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 188,
+      "allocatedQunantity": 673,
+      "BUD": "Fri Oct 13 2017 01:01:43 GMT+0000 (UTC)",
+      "lot_No": "a0ae749f-f324-411d-a6f3-3ed044fadf82",
+      "dosageForm": "Tablet",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bfe790a9b540169f45"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 354,
+      "allocatedQunantity": 169,
+      "BUD": "Fri Apr 14 2017 02:37:31 GMT+0000 (UTC)",
+      "lot_No": "65c6afb9-efa4-4fe9-8046-69f818dc15fa",
+      "dosageForm": "Capsule",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf0f3cec1554c3e92e"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 200,
+      "allocatedQunantity": 565,
+      "BUD": "Sun Oct 29 2017 13:32:05 GMT+0000 (UTC)",
+      "lot_No": "aa3b235f-679a-4e1a-9edf-1cc9672f8832",
+      "dosageForm": "Capsule",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf98a3771fdee1245d"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 306,
+      "allocatedQunantity": 893,
+      "BUD": "Thu Sep 14 2017 16:25:15 GMT+0000 (UTC)",
+      "lot_No": "9a23c315-4657-4bf9-95fd-9a9c013da359",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf195a6d540b130268"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 270,
+      "allocatedQunantity": 938,
+      "BUD": "Sat Jan 07 2017 01:38:13 GMT+0000 (UTC)",
+      "lot_No": "3240d5f0-2621-47fb-a491-9ea82d15f80e",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf1b37d44e3c76c727"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 306,
+      "allocatedQunantity": 703,
+      "BUD": "Sat Oct 07 2017 08:32:50 GMT+0000 (UTC)",
+      "lot_No": "7a43e594-3c39-49ec-bc5f-5074ff88bc7d",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf570619132fa46dae"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 272,
+      "allocatedQunantity": 175,
+      "BUD": "Thu Jul 27 2017 15:35:36 GMT+0000 (UTC)",
+      "lot_No": "e34b785c-1db9-4a30-aee4-7bc46a333596",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf8ca88b6d395d8c24"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 264,
+      "allocatedQunantity": 742,
+      "BUD": "Thu Jun 15 2017 16:11:34 GMT+0000 (UTC)",
+      "lot_No": "537ba7da-744c-4b0d-b124-94e806dd052c",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf7a65bc048b894961"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 213,
+      "allocatedQunantity": 837,
+      "BUD": "Sat Sep 16 2017 22:49:05 GMT+0000 (UTC)",
+      "lot_No": "15efb2a0-80e4-4beb-b599-336cde9ec480",
+      "dosageForm": "Tablet",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf95b6ef9d701878d5"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 56,
+      "allocatedQunantity": 755,
+      "BUD": "Sat Jun 03 2017 22:14:17 GMT+0000 (UTC)",
+      "lot_No": "778e0cb0-0e08-4df0-9197-c2c4ab6afdc4",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bff58590d4f043a222"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 244,
+      "allocatedQunantity": 488,
+      "BUD": "Thu Jan 26 2017 17:41:38 GMT+0000 (UTC)",
+      "lot_No": "bee82bcd-4fef-4c00-9c5f-6bb4ddedc1f2",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bffad34aa51d0e6846"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 263,
+      "allocatedQunantity": 266,
+      "BUD": "Sat Nov 25 2017 07:03:44 GMT+0000 (UTC)",
+      "lot_No": "361353be-8d3d-4fae-9411-0ad16984bd21",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf2f1c34dad718761f"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 186,
+      "allocatedQunantity": 387,
+      "BUD": "Fri Aug 25 2017 19:44:12 GMT+0000 (UTC)",
+      "lot_No": "e4583934-0035-4d4a-8852-a88cfa233644",
+      "dosageForm": "Capsule",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfbbc8ff14560954d4"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 134,
+      "allocatedQunantity": 384,
+      "BUD": "Sun Mar 05 2017 10:52:11 GMT+0000 (UTC)",
+      "lot_No": "9945559c-a29e-4c40-a8cd-fc23f8fccfa0",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bff74620c81fda5edf"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 23,
+      "allocatedQunantity": 580,
+      "BUD": "Tue May 02 2017 10:08:32 GMT+0000 (UTC)",
+      "lot_No": "538dd7fe-3156-4d91-8119-856cf7c501ea",
+      "dosageForm": "Gel",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf58c46f4e61cba9c0"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 351,
+      "allocatedQunantity": 698,
+      "BUD": "Sat May 27 2017 09:10:02 GMT+0000 (UTC)",
+      "lot_No": "8bfea589-5a17-40e0-a635-3fd91e312a75",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bffc2b63e6e3a552af"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 323,
+      "allocatedQunantity": 709,
+      "BUD": "Mon Jun 05 2017 05:13:36 GMT+0000 (UTC)",
+      "lot_No": "130f1627-575a-4a33-a951-bf6a67c17446",
+      "dosageForm": "Tablet",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf846a3626b0bed1de"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 147,
+      "allocatedQunantity": 890,
+      "BUD": "Wed Oct 25 2017 19:42:06 GMT+0000 (UTC)",
+      "lot_No": "b3f24612-d1c5-4794-a716-9b931a94064a",
+      "dosageForm": "Capsule",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf0e1ead2470d756c8"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 123,
+      "allocatedQunantity": 316,
+      "BUD": "Mon Jun 26 2017 21:08:02 GMT+0000 (UTC)",
+      "lot_No": "b7cbd777-8bcb-4600-a204-a9a93dddca94",
+      "dosageForm": "Gel",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfe6cc5ba83b1d84ce"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 132,
+      "allocatedQunantity": 540,
+      "BUD": "Mon Mar 13 2017 04:24:45 GMT+0000 (UTC)",
+      "lot_No": "cabf2eda-8daa-4e04-a260-dbab628a5413",
+      "dosageForm": "Capsule",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf6f42795916870b83"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 155,
+      "allocatedQunantity": 698,
+      "BUD": "Thu Jan 05 2017 10:29:28 GMT+0000 (UTC)",
+      "lot_No": "c2a813a3-c9b5-45be-a2cd-b523cb5222db",
+      "dosageForm": "Tablet",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bfac8c7b604f939c3f"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 82,
+      "allocatedQunantity": 155,
+      "BUD": "Tue Jan 10 2017 03:07:09 GMT+0000 (UTC)",
+      "lot_No": "6c497553-2742-4d0f-8e95-cd4e1f33aad0",
+      "dosageForm": "Capsule",
+      "productName": "Vicks Action",
+      "SkU_No": "5a39f3bf2e2dedf14215212a"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 69,
+      "allocatedQunantity": 915,
+      "BUD": "Tue Mar 07 2017 14:33:32 GMT+0000 (UTC)",
+      "lot_No": "ddbcbdc0-3dda-4250-a8c7-552dc8065b93",
+      "dosageForm": "Gel",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf9beb845d297a1c89"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 187,
+      "allocatedQunantity": 356,
+      "BUD": "Tue May 23 2017 05:13:16 GMT+0000 (UTC)",
+      "lot_No": "bf7a980b-ab41-4194-ae8e-d253c7b7951d",
+      "dosageForm": "Injection",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf565fa04ea8f91ddf"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 149,
+      "allocatedQunantity": 379,
+      "BUD": "Sun Dec 17 2017 13:29:23 GMT+0000 (UTC)",
+      "lot_No": "299ad8fe-072d-4064-89b2-ffa085e08092",
+      "dosageForm": "Gel",
+      "productName": "Colpel",
+      "SkU_No": "5a39f3bf93097a3e4b9bd03f"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 55,
+      "allocatedQunantity": 102,
+      "BUD": "Fri Jun 09 2017 04:03:46 GMT+0000 (UTC)",
+      "lot_No": "2d27763f-cbb1-4c93-bb4f-c6591c5577c3",
+      "dosageForm": "Capsule",
+      "productName": "Acrobrise",
+      "SkU_No": "5a39f3bf703530afe88abbfa"
+    },
+    {
+      "isActive": true,
+      "intervalDays": 140,
+      "allocatedQunantity": 476,
+      "BUD": "Mon Aug 14 2017 22:06:50 GMT+0000 (UTC)",
+      "lot_No": "9f529873-0cc7-421f-912a-80e073b0308d",
+      "dosageForm": "Gel",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf3275d6da5ef47f29"
+    },
+    {
+      "isActive": false,
+      "intervalDays": 98,
+      "allocatedQunantity": 734,
+      "BUD": "Thu Jan 26 2017 20:15:12 GMT+0000 (UTC)",
+      "lot_No": "215e7565-d0ed-4037-acb5-e12a0b53ff71",
+      "dosageForm": "Tablet",
+      "productName": "Paracytamal",
+      "SkU_No": "5a39f3bf50f67b3473fbc9d7"
+    }
+  ]

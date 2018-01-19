@@ -1,0 +1,65 @@
+<!-- <p>
+
+HeroNmae :  {{heroes.name}} <br>
+Hero ID  :  {{heroes.id}} <br>
+Hero Powers : {{heroes.power}} <br>
+</p> -->
+
+<div class="container">
+  <form #heroForm="ngForm" (ngSubmit)="onSubmit(model)">
+    
+  <div class="form-group">
+    <label for="name"> Hero Name : </label>
+    <input type="text"  id="name" [(ngModel)]="model.name" name="name" class="form-control" > 
+    <br>
+
+  </div>
+
+  <div class="form-group">
+      <label for="id">id : </label>
+      <input type="text"  id="id" [(ngModel)]="model.id" name="id" class="form-control">
+  
+  </div>
+
+  <div class="form-group">
+ <label for="power">Hero Power</label>
+ <select class="form-control" [(ngModel)]="model.power" name="power" id="power">
+   <option *ngFor="let power of
+    powers" [value]="power">{{power}}</option>
+ </select>
+  </div>
+
+  <button type="submit"> Submit </button>
+
+</form>
+</div>
+<!-- <button type="submit" (click)="getRequest()"> Click Me!</button> 
+<button type="submit" (click)="click()"> Click</button>  -->
+
+  <table class="table table-bordered" style="width:100%">
+                    <thead>
+                        <tr class="info">
+                            <th>HERO NAME</th>
+                            <th>ID</th>
+                            <th>POWER</th>
+            
+                            <th>ACTION</th> 
+                        </tr>
+                    </thead>
+                    <tbody>
+    
+    
+                        <!-- <tr *ngFor="let key of objectKeys(model)" > -->
+                           <!-- <td >{{model.id[key]}}  </td> -->
+<tr *ngFor = "let i of a">
+<td>{{i.id}}</td>
+                                 <td>{{i.name}}</td>
+                                <td>{{i.power}}</td> 
+                         
+                            <td>
+                                <button type="button" class="btn btn-primary" (click)="delete(model)">Delete</button>|
+                                <button type="button" class="btn btn-primary">Edit</button>
+                                </td>
+                       </tr>
+                    </tbody>
+                </table>
